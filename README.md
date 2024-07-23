@@ -9,7 +9,7 @@
 - ⚡ Star 星星走起
   
 
-[![Stargazers over time](https://starchart.cc/boy86001/ONE.svg?variant=adaptive)](https://starchart.cc/boy86001/ONE)
+[![Stargazers over time](https://starchart.cc/boy86001/ONE.svg?variant=adaptive)](https://starchart.cc/boy86001/SmartProxy-Tools)
 
 <!---boy86001/boy86001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
