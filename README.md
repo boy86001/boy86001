@@ -7,7 +7,7 @@
 
 - 🚀 Welcome to my GitHub profile!
 - 👀 Join the discussion on [Telegram](https://t.me/+_CxXyI4NloI0NDk1)
-- 💞️ Check out my [blog](https://zero001.us.kg/webdav/index.html#) channel
+- 💞️ Check out my [blog](https://zero001.icu/webdav/index.html#) channel
 - 💖 Your support motivates me to keep going!
 - ⚡ Don’t forget to ⭐ Star my repositories
 
